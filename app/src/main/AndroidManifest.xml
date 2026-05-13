@@ -15,12 +15,12 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:enableOnBackInvokedCallback="true"
-        android:theme="@style/Theme.SecondProj">
+        android:theme="@style/Theme.LoginService">
         <activity
             android:name="create.develop.loginservice.MainActivity"
             android:exported="true"
             android:label="@string/app_name"
-            android:theme="@style/Theme.SecondProj">
+            android:theme="@style/Theme.LoginService">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

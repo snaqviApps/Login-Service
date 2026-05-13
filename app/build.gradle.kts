@@ -8,13 +8,13 @@ plugins {
 }
 
 android {
-    namespace = "create.develop.secondproj"
+    namespace = "create.develop.loginservice"
     compileSdk {
         version = release(36)
     }
 
     defaultConfig {
-        applicationId = "create.develop.secondproj"
+        applicationId = "create.develop.loginservice"
         minSdk = 33
         targetSdk = 36
         versionCode = 1
